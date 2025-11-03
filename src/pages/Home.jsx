@@ -1,5 +1,6 @@
 import { ThemeToggle } from "../components/ThemeToggle";
 import {StarBackground} from "../components/StarBackground";
+import {NavBar} from "../components/NavBar";
 
 export function Home() {
     // console.log('Home');
@@ -10,6 +11,7 @@ export function Home() {
             {/*Background Effects*/}
             <StarBackground/>
             {/*NavBar*/}
+            <NavBar/>
             {/*Main content*/}
             {/*Footer*/}
         </div>  
