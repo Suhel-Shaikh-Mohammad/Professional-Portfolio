@@ -3,6 +3,7 @@ import {StarBackground} from "../components/StarBackground";
 import {NavBar} from "../components/NavBar";
 import {HeroSection} from "../components/HeroSection";
 import {AboutMe} from "../components/AboutMe";
+import { SkillsSection } from "../components/SkillsSection";
 
 export function Home() {
     // console.log('Home');
@@ -18,6 +19,7 @@ export function Home() {
             <main>
                 <HeroSection/>
                 <AboutMe/>
+                <SkillsSection/>
             </main>
             {/*Footer*/}
         </div>  
