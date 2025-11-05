@@ -1,7 +1,8 @@
 import { ThemeToggle } from "../components/ThemeToggle";
 import {StarBackground} from "../components/StarBackground";
 import {NavBar} from "../components/NavBar";
-import {HeroSection} from"../components/HeroSection";
+import {HeroSection} from "../components/HeroSection";
+import {AboutMe} from "../components/AboutMe";
 
 export function Home() {
     // console.log('Home');
@@ -16,6 +17,7 @@ export function Home() {
             {/*Main content*/}
             <main>
                 <HeroSection/>
+                <AboutMe/>
             </main>
             {/*Footer*/}
         </div>  
