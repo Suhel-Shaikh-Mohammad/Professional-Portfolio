@@ -13,11 +13,11 @@ export const AboutMe = () =>{
                 <div className='space-y-6'>
                     <h3 className='text-xl font-semibold'>Passionate Web Developer and Tech Enthusiast</h3>
 
-                    <p className='text-muted-foreground'> This is a sample paragraph to test the code Lorem ipsum dolor sit amet consectetur adipisicing elit. Id nam repellat optio sed dolorem mollitia tempore qui laudantium eaque dolore minima tempora 
+                    <p className='text-muted-foreground'>  Innovative Computer Science Engineering student with a strong academic record and practical experience in developing AI powered applications, real-time automation systems, and full-stack web solutions. Proficient in Python, Intermediate in MERN stack, and AI/ML frameworks with expertise in computer vision (YOLOv8). 
                     </p>
 
                     <p className='text-muted-foreground'>
-                     Nihil error laboriosam autem velit eum itaque suscipit dignissimos dolorum perferendis natus est sit earum omnis provident odio placeat similique modi aspernatur, tempora, rerum voluptas quisquam! Perferendis quo maiores excepturi.
+                     Adept at designing and deploying scalable, secure, and data-driven applications, improving workflows by up to 95% efficiency
                     </p>
 
                     <div className='flex flex-col sm:flex-row gap-4 pt-4 justify-center'>

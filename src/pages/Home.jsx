@@ -5,6 +5,7 @@ import {HeroSection} from "../components/HeroSection";
 import {AboutMe} from "../components/AboutMe";
 import { SkillsSection } from "../components/SkillsSection";
 import {ProjectsSection} from "../components/ProjectsSection";
+import { ContactSection } from "../components/ContactSection";
 
 export function Home() {
     // console.log('Home');
@@ -22,6 +23,7 @@ export function Home() {
                 <AboutMe/>
                 <SkillsSection/>
                 <ProjectsSection/>
+                <ContactSection/>
             </main>
             {/*Footer*/}
         </div>  
